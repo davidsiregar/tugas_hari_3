@@ -1,0 +1,23 @@
+.typography--variant-h1 {
+  font-size: 78px;
+}
+
+.typography--variant-h2 {
+  font-size: 62px;
+}
+
+.typography--variant-h3 {
+  font-size: 48px;
+}
+
+.typography--variant-h4 {
+  font-size: 32px;
+}
+
+.typography--variant-h5 {
+  font-size: 24px;
+}
+
+.typography--variant-h6 {
+  font-size: 16px;
+}
